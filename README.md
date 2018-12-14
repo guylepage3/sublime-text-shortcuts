@@ -13,3 +13,5 @@
 | ⌘K ⌘B            | Open and close sidebar  |
 | **Navigation**     |  |
 | ⌃G [Line #]       | Goto line in current file  |
+
+Reference [Sublime Text 3 Keyboard Shortcuts macOS](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
